@@ -1,0 +1,16 @@
+{
+  "name": "steam-hour-boost-with-login",
+  "version": "1.0.0",
+  "description": "steam hour boost with login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaye",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.19.12"
+  }
+}
