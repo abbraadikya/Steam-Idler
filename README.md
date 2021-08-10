@@ -1,4 +1,4 @@
-# STEAM HOUR BOOST
+# Steam Idler 
 1. Install NodeJS - https://nodejs.org/
 2. Download this script. Extract the archive.
 3. In the console open the script folder. Enter in the console: npm install.
